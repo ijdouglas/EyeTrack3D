@@ -8,3 +8,6 @@ code related to 3-D eye tracking
 * `undistortImage` and `undistortPoints` (see cam_intr.m) projects 2D data into 3D given intrinsic params
 
 ![](/image.png)
+
+
+Using the GUI at https://alicevision.org/#meshroom, with the focal length in pixels and a 2D video, we can render a 3D model from the video
