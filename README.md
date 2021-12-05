@@ -12,6 +12,7 @@ code related to 3-D eye tracking
 
 Using the GUI at https://alicevision.org/#meshroom, with the focal length in pixels and a 2D video, we can render a 3D model from the video
 
+- .png files to test out meshroom with: https://drive.google.com/drive/folders/1T__yKJqktyYncYvVDYFVEK05dPd8KGXJ
 ### Goals
 
 1. Calculate 3D gaze vectors from 2D eye direction coordinates
